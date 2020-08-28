@@ -1,6 +1,8 @@
 ## Preview Youtube Clone
-[Preview]{https://clone-34572.web.app/}
+[Preview](https://clone-34572.web.app/)
 
+
+## Project Details
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
